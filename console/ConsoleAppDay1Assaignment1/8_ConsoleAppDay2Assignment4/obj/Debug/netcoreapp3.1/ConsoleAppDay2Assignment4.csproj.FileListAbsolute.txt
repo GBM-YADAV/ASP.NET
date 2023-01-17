@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.exe
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.deps.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\bin\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleAppDay1Assaignment1\ConsoleAppDay2Assignment4\obj\Debug\netcoreapp3.1\ConsoleAppDay2Assignment4.genruntimeconfig.cache

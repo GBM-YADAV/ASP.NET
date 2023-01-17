@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.exe
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.deps.json
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.dll
+C:\Users\GIRIBABU\Source\Repos\sample\sample\bin\Debug\netcoreapp3.1\sample.pdb
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.dll
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.pdb
+C:\Users\GIRIBABU\Source\Repos\sample\sample\obj\Debug\netcoreapp3.1\sample.genruntimeconfig.cache

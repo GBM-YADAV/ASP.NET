@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.exe
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.deps.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\bin\Debug\netcoreapp3.1\Console_lamdaa.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_lamdaa\obj\Debug\netcoreapp3.1\Console_lamdaa.genruntimeconfig.cache

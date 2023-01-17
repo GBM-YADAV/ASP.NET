@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.exe
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.deps.json
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.dll
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\bin\Debug\netcoreapp3.1\Practice_Session.pdb
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.dll
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.pdb
+C:\Users\GIRIBABU\Source\Repos\Practice_Session\Practice_Session\obj\Debug\netcoreapp3.1\Practice_Session.genruntimeconfig.cache

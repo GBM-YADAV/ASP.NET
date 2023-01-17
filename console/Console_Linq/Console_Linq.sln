@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Linq", "Console_Linq\Console_Linq.csproj", "{BD19612E-067E-4C6A-A0A1-3E7891AA80C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_lamdaa", "Console_lamdaa\Console_lamdaa.csproj", "{EC332D71-E061-44BA-BB4B-CFACAA4DC6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD19612E-067E-4C6A-A0A1-3E7891AA80C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD19612E-067E-4C6A-A0A1-3E7891AA80C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD19612E-067E-4C6A-A0A1-3E7891AA80C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD19612E-067E-4C6A-A0A1-3E7891AA80C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC332D71-E061-44BA-BB4B-CFACAA4DC6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC332D71-E061-44BA-BB4B-CFACAA4DC6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC332D71-E061-44BA-BB4B-CFACAA4DC6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC332D71-E061-44BA-BB4B-CFACAA4DC6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D89A9D-3133-49D9-876C-BC8E5D4E465D}
+	EndGlobalSection
+EndGlobal

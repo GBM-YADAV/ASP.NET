@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsu7YVu0iQxnsefFUePtOGt7XheA+khqyJmd/f3hguOwDSWECBqBS8nfKWWMjU8c55FmCJUlSY1sr9pp1b9+YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GIRIBABU\\Source\\Repos\\Console_Day5\\ConsoleApp1Dictionary\\ConsoleApp1Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

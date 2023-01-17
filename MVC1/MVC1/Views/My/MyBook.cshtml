@@ -1,0 +1,20 @@
+﻿<h1>book details</h1>
+<table border="1">
+	<thead>
+		<th>Book Id</th>
+		<th>Book NAme</th>
+		<th>author</th>
+		<th>price</th>
+	</thead>
+@foreach(var book in ViewBag.books)
+{
+	<tr>
+		<td>@book.id</td>
+			<td>@book.bookName</td>
+			<td>@book.author</td>
+			<td>@book.price</td>
+	</tr>
+
+}
+
+</table>

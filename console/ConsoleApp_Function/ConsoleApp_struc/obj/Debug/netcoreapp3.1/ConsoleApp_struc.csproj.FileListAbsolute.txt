@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.exe
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.deps.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\bin\Debug\netcoreapp3.1\ConsoleApp_struc.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleApp_struc\obj\Debug\netcoreapp3.1\ConsoleApp_struc.genruntimeconfig.cache

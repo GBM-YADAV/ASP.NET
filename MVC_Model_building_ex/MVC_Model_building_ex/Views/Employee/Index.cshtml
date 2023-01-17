@@ -1,0 +1,10 @@
+﻿@model IEnumerable<MVC_Model_building_ex.Models.Employee>
+
+	<h1> Strongly  typed view with list of employees</h1>
+
+	<ul>
+		@foreach(var emp in @Model)
+		{
+			<li>@emp.id @emp.name  @emp.designation  @emp.salary</li>
+		}
+	</ul>

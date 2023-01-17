@@ -1,0 +1,41 @@
+﻿@model MVC_DBFirst_practice.Models.Category;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - MVC_DBFirst_practice</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" />
+	<style>
+		table {
+			height: auto;
+			width: stretch;
+			border-inline: double;
+			text-align: center;
+			table-layout: auto;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="align-content-center bg-primary border-bottom ">@Model.category  Details </h1>
+	<div class="container">
+		<table class="table-striped table-bordered">
+			<tr><th class="text-capitalize p-2 ">Department no :</th><td class="p-2 ">@Model.catid</td>
+
+			<tr><th class="text-capitalize p-2 ">Department Name</th><td class="p-2 ">@Model.category</td></tr>
+		
+			<tr><td colspan="2"></td></tr>
+			<tr>
+				<th class="p-2"><a asp-action="Edit" asp-controller="Category" asp-route-id="@Model.catid">Edit</a></th>
+				<td class="p-2 "><a asp-action="Index" asp-controller="Category">Category list</a></td>
+			</tr>
+
+		</table>
+
+
+
+	</div>
+</body>
+</html>

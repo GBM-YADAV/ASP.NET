@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MVC_DBFirst_practice.Models.Book>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - MVC_DBFirst_practice</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" />
+	<style>
+		table {
+			height: auto;
+			width: stretch;
+			border-inline: double;
+			text-align: center;
+			table-layout: auto;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="align-content-center bg-primary border-bottom ">My Book List </h1>
+	<div class="container">
+		<table class="table-striped table-bordered">
+			<tr class=" text-uppercase">
+				<th>
+					Book Id
+				</th>
+				<th>
+					Book type
+				</th>
+				<th>
+					MRP RATE
+				</th>
+				
+
+				<th class="p-2" colspan="3">
+					<a asp-action="Create">
+						Create New
+					</a>
+				</th>
+			</tr>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td class="p-2 ">@item.bookid</td>
+					<td class="p-2 ">@item.booktype</td>
+					<td class="p-2 ">@item.price</td>
+					
+
+					<td class="p-2 "><a asp-action="Edit" asp-route-id="@item.bookid">Edit</a></td>
+					<td class="p-2 "><a asp-action="Details" asp-route-id="@item.bookid">Details</a></td>
+					<td class="p-2 "><a asp-action="Delete" asp-route-id="@item.bookid">Delete</a></td>
+
+				</tr>
+			}
+		</table>
+
+	</div>
+</body>
+</html>
+
+

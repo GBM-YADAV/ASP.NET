@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "824KwCENkRTAiZImH4LbCkSbyX2Y34wvB4mVM0qTuKx8a4PJ4WTmnnVD9CX59oFW+URhXPW7Rbjcd1C9GTQSmQ==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\MVC1\\MVC1\\MVC1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

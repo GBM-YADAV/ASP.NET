@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.exe
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.deps.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\bin\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleMultilevel_inheritance\obj\Debug\netcoreapp3.1\ConsoleMultilevel_inheritance.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.exe
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.deps.json
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\bin\Debug\netcoreapp3.1\ConsoleGeneric.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Day5\ConsoleGeneric\obj\Debug\netcoreapp3.1\ConsoleGeneric.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.exe
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.deps.json
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.dll
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\bin\Debug\netcoreapp3.1\Typecasting.pdb
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.dll
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.pdb
+C:\Users\GIRIBABU\Source\Repos\FirstApp\Typecasting\obj\Debug\netcoreapp3.1\Typecasting.genruntimeconfig.cache

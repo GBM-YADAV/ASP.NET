@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dk8abAgByhd+LsbYLes48D1fZJGn3P2LTIoRNjl3/MIIMnqXoPL7aNXpLsVPJG11cOVH2ni0yl9G9UG4ATkv2g==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\WebApp_Access_configurationSettingsFromMidleware\\WebApp_Access_configurationSettingsFromMidleware\\WebApp_Access_configurationSettingsFromMidleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

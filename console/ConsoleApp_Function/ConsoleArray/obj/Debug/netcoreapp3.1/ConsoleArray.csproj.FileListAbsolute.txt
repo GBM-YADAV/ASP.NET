@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.exe
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.deps.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.genruntimeconfig.cache

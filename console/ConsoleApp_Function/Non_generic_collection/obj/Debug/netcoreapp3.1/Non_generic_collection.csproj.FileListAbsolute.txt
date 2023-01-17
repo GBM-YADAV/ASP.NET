@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.exe
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.deps.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\bin\Debug\netcoreapp3.1\Non_generic_collection.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.dll
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.pdb
+C:\Users\GIRIBABU\Source\Repos\ConsoleApp_Function\Non_generic_collection\obj\Debug\netcoreapp3.1\Non_generic_collection.genruntimeconfig.cache

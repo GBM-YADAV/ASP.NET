@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.exe
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.deps.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\bin\Debug\netcoreapp3.1\Console_Assignment_Switch.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\Console_Assignment_Switch\obj\Debug\netcoreapp3.1\Console_Assignment_Switch.genruntimeconfig.cache

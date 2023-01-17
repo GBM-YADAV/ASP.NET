@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h1> Razor Syntax Example</h1>
+
+<h2>today is @DateTime.Now.ToShortDateString()</h2>
+<h2>today is @DateTime.Now.ToShortTimeString()</h2>
+
+@{
+    var name = "Giri Babu ";
+    var message = " Weclcome to asp.net core MVC class ";
+}
+
+<h2> Name :@name</h2>
+<h2> @message</h2>
+
+@if(DateTime.IsLeapYear(DateTime.Now.Year))
+{
+    @DateTime.Now.Year @: is a leap year
+}
+else
+{
+     @DateTime.Now.Year @: is not a leap year
+}
+}
+
+
+@for(int i=0; i<10;i++)
+{
+    @i;<br />
+}
+
+@{
+    var principleamount = 100000;
+    var IntrestRate = 4;
+    var numOfTerms = 12;
+
+    var emi = principleamount / 100 * IntrestRate * numOfTerms;
+
+
+
+}
+
+<h1> Principle amount :@principleamount</h1>
+<h1>Intrest Rate :@IntrestRate</h1>
+<h1>Num Of TErms :@numOfTerms</h1>
+<h1>EMI to be paid :@emi</h1>

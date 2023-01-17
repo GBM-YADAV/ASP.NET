@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.exe
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.deps.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\bin\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Assignment\ConsoleAssignmentMedecine\obj\Debug\netcoreapp3.1\ConsoleAssignmentMedecine.genruntimeconfig.cache

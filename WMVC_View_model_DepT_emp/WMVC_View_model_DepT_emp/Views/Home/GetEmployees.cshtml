@@ -1,0 +1,10 @@
+﻿@model WMVC_View_model_DepT_emp.Models.DeptEmpViewModel;
+
+<h1>@Model.depart.depname</h1>
+<hr />
+<ol> 
+	@foreach(var item in Model.Employeelist)
+	{
+		<li>@item.eid  @item.ename @item.salary  </li>
+	}
+</ol>

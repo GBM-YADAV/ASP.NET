@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "suZHl5pYLPrrpUw2e6T386pwMFiixvUtr2x/C+OaPbqB7klxRXZNi/sgHa62O3WQCIs+bJSIGOP9LrSoNvadsQ==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\MVC_Routing_Conventional_Example\\MVC_Routing_Conventional_Example\\MVC_Routing_Conventional_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

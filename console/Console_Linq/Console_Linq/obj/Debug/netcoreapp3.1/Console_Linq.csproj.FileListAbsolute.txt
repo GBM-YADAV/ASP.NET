@@ -1,0 +1,14 @@
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.exe
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.deps.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.runtimeconfig.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.runtimeconfig.dev.json
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\bin\Debug\netcoreapp3.1\Console_Linq.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.csproj.AssemblyReference.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.AssemblyInfoInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.AssemblyInfo.cs
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.csproj.CoreCompileInputs.cache
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.dll
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.pdb
+C:\Users\GIRIBABU\Source\Repos\Console_Linq\Console_Linq\obj\Debug\netcoreapp3.1\Console_Linq.genruntimeconfig.cache

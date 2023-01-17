@@ -1,0 +1,73 @@
+﻿@model MVC_DBFirst_practice.Models.Department;
+
+
+<h1 class="align-content-center bg-primary border-bottom ">Create New Record of Deparment</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table class="table table-striped table-bordered">
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="depno" class="control-label"></label>
+                            <input asp-for="depno" class="form-control" />
+                            <span asp-validation-for="depno" class="text-danger"></span>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="depname" class="control-label"></label>
+                            <input asp-for="depname" class="form-control" />
+                            <span asp-validation-for="depname" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="location" class="control-label"></label>
+                            <input asp-for="location" class="form-control" />
+                            <span asp-validation-for="location" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <input type="submit" value="Create" class="btn btn-primary pl-5 pr-5" />
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+                            <a asp-action="Index">Back to List</a>
+                        </div>
+                    </td>
+                </tr>
+
+            </table>
+
+
+
+
+        </form>
+    </div>
+</div>
+
+
+

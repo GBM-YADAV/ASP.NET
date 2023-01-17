@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOk9khHOvYFixJp9IZLgRE6ePWovp1Hcb5uSrmMRoeLy/NBMGe0kRthk7kn9H4NuAqKKdtvUV5dUaxu3XeDz7Q==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\MVC_Razor_Example\\MVC_Razor_Example\\MVC_Razor_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

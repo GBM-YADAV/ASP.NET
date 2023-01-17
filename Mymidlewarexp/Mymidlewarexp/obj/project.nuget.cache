@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRATemetOVG9MxnmF1Hni1zxV7hjKKZRFjMHdqArO2BZa6J5onTLltGadiwvvXdq3kYRDrV2JfgYMMeLlwXdGQ==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\Mymidlewarexp\\Mymidlewarexp\\Mymidlewarexp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

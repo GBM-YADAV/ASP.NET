@@ -1,0 +1,26 @@
+﻿
+
+<h1>This is the details of the product </h1>
+
+<table border="1">
+	<thead>
+		<th>Product id</th>
+		<th>Product Name</th>
+		<th>Product Cost</th>
+		<th>Category</th>
+	</thead>
+	
+		@foreach(var i in ViewBag.product)
+		{
+			<tr>
+			<td> @i.ProductId</td>
+			<td> @i.ProductName</td>
+			<td> @i.ProductPrice</td>
+			<td> @i.proCate</td>
+			</tr>
+		
+		}
+
+	
+</table>
+

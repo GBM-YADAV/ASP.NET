@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EUukLHtgMyUKP4t1X4d8jLXgDb5BricDVpYZfoPN/fge3BqpI8S0f+IGpoMlxBAQJpbbntR4HiaVDnbX+DZhw==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET\\MVC_Model_building_ex\\MVC_Model_building_ex\\MVC_Model_building_ex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIRIBABU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

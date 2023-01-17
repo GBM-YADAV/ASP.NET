@@ -1,0 +1,73 @@
+﻿@model MVC_DBFirst_practice.Models.Book;
+
+
+<h1 class="align-content-center bg-primary border-bottom ">Updaet the Book with ID: @Model.bookid</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table class="table table-striped table-bordered">
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="booktype" class="control-label"></label>
+                            <input asp-for="booktype" class="form-control" />
+                            <span asp-validation-for="booktype" class="text-danger"></span>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="price" class="control-label"></label>
+                            <input asp-for="price" class="form-control" />
+                            <span asp-validation-for="price" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="brand" class="control-label"></label>
+                            <input asp-for="brand" class="form-control" />
+                            <span asp-validation-for="brand" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <input type="submit" value="Update" class="btn btn-primary pl-5 pr-5" />
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+                            <a asp-action="Index">Back to List</a>
+                        </div>
+                    </td>
+                </tr>
+
+            </table>
+
+
+
+
+        </form>
+    </div>
+</div>
+
+
+

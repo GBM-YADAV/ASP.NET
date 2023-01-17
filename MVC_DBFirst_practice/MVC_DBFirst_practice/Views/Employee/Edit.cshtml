@@ -1,0 +1,74 @@
+﻿@model MVC_DBFirst_practice.Models.Employee;
+
+
+<h1 class="align-content-center bg-primary border-bottom ">Update Employee with Id: @Model.eid</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table class="table table-striped table-bordered">
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="ename" class="control-label"></label>
+                            <input asp-for="ename" class="form-control"  />
+                            <span asp-validation-for="ename" class="text-danger"></span>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="depno" class="control-label"></label>
+                            <select asp-for="depno" asp-items=@ViewBag.dept>
+                                <option value="">Choose department</option>
+                            </select> <span asp-validation-for="depno" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="salary" class="control-label"></label>
+                            <input asp-for="salary" class="form-control" />
+                            <span asp-validation-for="salary" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group ">
+                            <input type="submit" value="Update" class="btn btn-primary pl-5 pr-5" />
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+                            <a asp-action="Index">Back to List</a>
+                        </div>
+                    </td>
+                </tr>
+
+            </table>
+
+
+
+
+        </form>
+    </div>
+</div>
+
+
+
